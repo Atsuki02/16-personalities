@@ -157,7 +157,7 @@ img {
 
 .section-types::after {
   background: url("./img/wave1.svg");
-  top: 1100px;
+  top: 1250px;
   content: "";
   height: 240px;
   position: absolute;
@@ -200,7 +200,6 @@ img {
 }
 
 .section .section-wrapper {
-  /* background-color: rgb(248, 189, 93); */
   background: #f7f3f3;
   text-align: center;
   margin: 0 auto;
@@ -223,7 +222,6 @@ img {
   color: var(--sub-color);
   width: 50%;
   margin: 0 auto;
-  /* background: -webkit-linear-gradient(0deg, #f9f2df, #fed542); */
   background: -webkit-linear-gradient(0deg, #f9d575, #fca401);
   -webkit-background-clip: text;
   background-clip: text;
